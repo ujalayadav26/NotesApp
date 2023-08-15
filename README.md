@@ -4,7 +4,7 @@ A new Flutter project.
 
 # MIT License
 
-Copyright (c) 2022 Navneet Prajapati
+Copyright (c) 2023 Ujala Yadav 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
